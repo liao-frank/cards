@@ -83,3 +83,6 @@ entrypoint.hashmanifest.json
 
 # Temporary files
 .tmp
+
+# Parcel cache
+.cache
