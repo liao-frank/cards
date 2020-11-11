@@ -5,7 +5,7 @@
   "repository": "https://github.com/liao-frank/cards",
   "license": "MIT",
   "dependencies": {
-    "ammo": "^3.0.3",
+    "@hapi/ammo": "^5.0.1",
     "three": "^0.122.0"
   },
   "devDependencies": {
