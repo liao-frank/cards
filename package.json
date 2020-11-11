@@ -1,0 +1,14 @@
+{
+  "name": "cards",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/liao-frank/cards",
+  "license": "MIT",
+  "dependencies": {
+    "ammo": "^3.0.3",
+    "three": "^0.122.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
